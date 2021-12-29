@@ -1,6 +1,6 @@
 # Pugify
 ## What is Pugify?
-Pugify is a simple camera-filter application that identifies faces from a live camera feed and if any are detected then it will overlay an image of a Pug's face ontop of theirs. This absurd but humorous camera-filter was built using OpenCV, a popular Computer Vision Python library that makes facial detection a cakewalk.
+Pugify is a simple camera-filter application that uses facial recognition to overlay Pug faces ontop of people's faces given a live camera feed, such as a webcam. This absurd but humorous camera-filter was built using OpenCV, a popular Computer Vision Python library that makes facial detection a cakewalk.
 
 ## Execution
 - Install Pugify's dependencies by running `pip install -r requirements.txt`.
